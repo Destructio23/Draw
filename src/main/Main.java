@@ -11,6 +11,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		
+		//second commit test!!
+		
 		MainWin mainGui = MainWin.getGui();
 		OptionWin.getGui();
 		
