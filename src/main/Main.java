@@ -11,8 +11,6 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		//testjvbb
-		
 		MainWin mainGui = MainWin.getGui();
 		OptionWin.getGui();
 
